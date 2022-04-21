@@ -1,6 +1,6 @@
 === Manage User Columns ===
 Contributors: Smrutiranjan Mishra
-Donate link: https://mikepeace.net
+Donate link: https://github.com/smrutiranjan/wp_user_column
 Tags: registration-date, user-column, filter, users, columns, registered, date
 Requires at least: 4.0
 Tested up to: 5.9

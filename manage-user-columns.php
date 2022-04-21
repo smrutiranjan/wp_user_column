@@ -4,7 +4,7 @@
 * Description: This plugin allows you to manage columns under the users page in the WordPress admin area.
 * Version: 1.0.4
 * Author: Smrutiranjan Mishra, Mike Peace
-* Author URI: https://www.mikepeace.net
+* Author URI: https://github.com/smrutiranjan/wp_user_column
 * License: GPL+2
 * Text Domain: custom user column
 * Domain Path: /languages
